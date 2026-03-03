@@ -9,10 +9,6 @@ redirect_from:
 
 Hi! I'm Duong, a Master student in Computer Science at [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn/), VinUniversity (Cohort 2026).
 
-My research interests lie at the intersection of affective computing, psychological theory, and interpretable machine learning for mental health. I am particularly interested in modeling emotional and cognitive states from multimodal behavioral and physiological data, while grounding computational representations in established psychological and neuroscientific frameworks. My work emphasizes understanding \emph{why} models make decisions, and how these computational decision mechanisms relate to the way individuals perceive, reason, and make decisions in real-world contexts.
-
-**Current Research Focus**: Bridging affective computing, digital phenotyping, and decision-theoretic machine learning to support the assessment and monitoring of mental health conditions. I focus on interpretable, theory-informed models that capture feature relevance and interactions, with the goal of developing scalable and clinically meaningful tools that reflect human decision processes, especially in low-resource and real-world settings.
-
 *Contact: vuhoang.thduong@gmail.com / duong.vht@vinuni.edu.vn*
 
 Research Interests
@@ -25,7 +21,7 @@ Research Interests
 
 News
 ======
-- **[Feb. 2026]** I started a MSc. in Computer Science at [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn/), VinUniversity, with full-ride scholarship. 
+- **[Feb. 2026]** I started my MSc. in Computer Science at [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn/), VinUniversity, with fully-funded scholarship. 
 
 - **[Nov. 2025]** I joined the **Neuroplasticity tracking during intervention for depression and anxiety: a longitudinal, cognitive-guided digital phenotyping study**, funded by IBRO x Wellcome (NCAMH 2025), led by Prof. Huong Ha (International University, Vietnam). The project is selected as 1 of 12 awardees from 133 global applications, received 60,000 USD to conduct a 9-month pilot intervention study on Vietnamese population.
 
