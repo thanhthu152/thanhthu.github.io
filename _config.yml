@@ -23,22 +23,22 @@ repository               : "htdgv/htdgv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Duong Vu"
+  avatar           : "image.png"
+  name             : "Thanh Thu Nguyen"
   pronouns         : "she/her"  
   bio              : "MSc Student at VinUni-Illinois Smart Health Center"
   location         : "Hanoi, Vietnam"
   employer         : "VinUniversity"
   uri              : # URL
-  email            : "vuhoang.thduong@gmail.com" 
+  email            : "nguyenthanhthu152@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=WNrbc0UAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=20Bo8gQAAAAJ&hl=vi&oi=sra"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-6775-6691"
+  orcid            : # URL important
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "htdgv"
+  github           : "thanhthu152"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "__duong.v"
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "htdgv"
+  linkedin         : "thanhthunguyen02"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
